@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aed9ed5-d665-4839-b6c7-9cc684729806" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invent/templates/invent/add_device.html" beforeDir="false" afterPath="$PROJECT_DIR$/invent/templates/invent/add_device.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invent/templates/invent/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/invent/templates/invent/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invent/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/invent/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="2aed9ed5-d665-4839-b6c7-9cc684729806" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/Newspaper/Newspaper/dashboard/views.py" />
+    <property name="last_opened_file_path" value="C:/Youtube/Youtube" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,7 +221,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
